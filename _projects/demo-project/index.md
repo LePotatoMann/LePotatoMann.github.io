@@ -1,26 +1,20 @@
 ---
 layout: post
-title: Super Heavy Booster Catch (Demo Only)
-description:  (I have never been employed by / affiliated with SpaceX. This is for demo use only) 
-    Developing the Super Heavy booster catch project involves designing a robust launch tower with "chopstick" arms, advanced control systems for precise booster alignment, and integrating sophisticated software for real-time trajectory adjustments and structural engineering to handle immense forces.
+title: Systems Engineering Project 1
+description:  This project aims to deploy the LIMO Robot by AgileX and navigate an arena consisting of 8 different 1.33m x 1.5m plots themed around Changi Airport. The project utilises ROS 1 Navigation Stack and Real-Time Appearance-Based Mapping (rtabmap), in order to successfully navigate through the arena.
 skills: 
-  - Structural analysis
-  - Aerodynamic design
-  - Propulsion system integration
-  - Control Algorithem 
-  - Welding
-  - Metal forming
-  - Thermal simulation
+  - 3D Modelling
+  - Python Programming
+  - ROS 1 (Melodic)
 
 main-image: /project2.jpg
 ---
 
 ---
-# Header 1 
-Used for the title (already generated automatically at the top)
-## Header 2  
-Use this for the header of each section
-### Header 3 
+# Arena Map Design
+## Requirements  
+Each team was tasked to create a 1.33m x 1.5m sized map that emulated a particular landmark of Changi Airport for the LIMO to navigate. In my team's case, we were given the task to emulate Terminal 1.
+### Design Choices
 Use this to have subsection if needed
 
 
