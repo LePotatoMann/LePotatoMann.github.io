@@ -11,6 +11,10 @@ main-image: /LIMO_Robot.png
 ---
 
 ---
+# Hardware Given
+---
+
+---
 # Arena Map Design
 ## Requirements  
 To test the deployment of the LIMO Robot, each team was tasked to create a 1.33m x 1.5m sized map that emulated a particular landmark of Changi Airport for the LIMO to navigate. In my team's case, we were given the task to emulate Terminal 1.
