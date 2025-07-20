@@ -16,10 +16,11 @@ main-image: /LIMO_Robot.png
 To test the deployment of the LIMO Robot, each team was tasked to create a 1.33m x 1.5m sized map that emulated a particular landmark of Changi Airport for the LIMO to navigate. In my team's case, we were given the task to emulate Terminal 1.
 Aside from the map size, there was also a additional requirement that the LIMO Robot was to navigate through the center of the map within a 5cm radius.
 
-### Design Choices
+## Design Choices
 To emulate Terminal 1's design, not only did our team try matching key design choices from the area itself. We also decided to include a key landmark from Terminal 1, the Kinetic Rain sculpture, in order to emulate it as best we can.
 
 Following this, our team created a path layout that would ensure ample difficulty in order to test the LIMO Robot's navigation capabilities as seen here.
+
 ### Finalised Arena Design (SolidWorks)
 {% include image-gallery.html images="Arena_Final.jpg" height="400" %}
 
