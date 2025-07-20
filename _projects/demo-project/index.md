@@ -12,6 +12,8 @@ main-image: /LIMO_Robot.png
 
 ---
 # Hardware Given
+
+## LIMO PRO by AgileX
 ---
 # Arena Map Design
 ## Requirements  
