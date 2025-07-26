@@ -17,6 +17,7 @@ main-image: /LIMO_Robot.png
 {% include image-gallery.html images="LIMO_Robot2.png" height="400" %}
 This project uses the LIMO Robot by AgileX, and its EAI XL2 LiDAR, ORBBEC® Dabai stereo depth camera, as well as other in-built sensors to perform SLAM, path planning and navigation, and obstacle avoidance.
 The final goal being to succesfully navigate any given plot number within the arena.
+
 ---
 # Arena Map Design
 ## Requirements  
