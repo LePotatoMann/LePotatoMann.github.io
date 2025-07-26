@@ -29,10 +29,10 @@ To emulate Terminal 1's design, not only did our team try matching key design ch
 
 Following this, our team created a path layout that would ensure ample difficulty in order to test the LIMO Robot's navigation capabilities as seen here.
 
-### Finalised Arena Design (SolidWorks)
+## Finalised Arena Design (SolidWorks)
 {% include image-gallery.html images="Arena_Final.jpg" height="400" %}
 
-### Live Arena
+## Live Arena
 {% include image-gallery.html images="Live_Arena.jpg" height="400" %}
 
 ### Embeed images
