@@ -18,7 +18,6 @@ description: >- # dont remove this line. this will ignore all new lines until th
   Hi, I'm Leon. A Year 1 Student currently pursuing my Degree in Robotics Systems Engineering at Singapore Institute of Technology.
   Having gradutated from Nanyang Polytechnic with a Diploma in Robotics & Mechatronics, 
   I decided to pursue my Degree to furthur my understanding and passion behind Robotics and how they function.
-  
   In my spare time, I enjoy building plastic model kits of mechanical robot models,
   appreciating the mechanics behind them and how these multiple pieces come together to move as a whole.
 
@@ -36,7 +35,7 @@ resume-url: https://drive.google.com/file/d/13Z3duVzh-gguPU5r03oJVEE6rV9rd3DS/vi
 external-links:    # input only your own url slug. The icons with missing entries will not appear.
   linkedin: leonchiacl    # https://www.linkedin.com/in/{your url slug} 
   github: LePotatoMann    # https://github.com/{your url slug} 
-  stackoverflow: test      # https://stackoverflow.com/users/{your url slug}
+  stackoverflow:      # https://stackoverflow.com/users/{your url slug}
   medium:            # https://medium.com/@{your url slug} 
   x-twitter:   # https://x.com/{your url slug} 
   threads:            # https://threads.net/@{your url slug} 
