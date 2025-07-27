@@ -30,9 +30,7 @@ To emulate Terminal 1's design, not only did our team try matching key design ch
 Following this, our team created a path layout that would ensure ample difficulty in order to test the LIMO Robot's navigation capabilities as seen here.
 
 ## Finalised Arena Design (SolidWorks)
-{% include image-gallery.html images="Arena_Final.jpg" height="400" %}
-
-  
+{% include image-gallery.html images="Arena_Final.jpg" height="400" %}  
 
 ## Live Arena
 {% include image-gallery.html images="Live_Arena.jpg" height="400" %}
@@ -42,10 +40,10 @@ Following this, our team created a path layout that would ensure ample difficult
 
 ## Mapping
 Below is the completed map of the entire arena as captured and displayed within RViz (ROS Visualisation)
-{% include image-gallery.html images="Live_Arena.jpg" height="400" %}
+{% include image-gallery.html images="Mapping_Image.jpg" height="400" %}  
   
 ## Live Demo
-{% include youtube-video.html id="MhVw-MHGv4s" autoplay= "false"%}
+{% include youtube-video.html id="mY0nM8mVUw4" autoplay= "false"%}
 
 ### Embeed images
 {% include image-gallery.html images="Live_Arena.jpg" height="400" %} 
