@@ -14,7 +14,6 @@ main-image: /LIMO_Robot.png
 
 # Project Overview
 This project aims to deploy the LIMO Robot by AgileX and navigate an arena consisting of 8 different 1.33m x 1.5m plots themed around Changi Airport. The project utilises ROS 1 Navigation Stack and Real-Time Appearance-Based Mapping (rtabmap), in order to successfully navigate through the arena.
-For more information regarding the project, you can check our group's [Github](https://github.com/pokohroh/ros-portfolio).
 
 ---
 # Hardware Given
